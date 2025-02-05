@@ -5,9 +5,11 @@ version = "1.0.0-DEV"
 
 [deps]
 DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+Luxor = "ae8d54c2-7ccd-5906-9d76-62fc9837b5bc"
 
 [compat]
 DataStructures = "0.18.20"
+Luxor = "4.1.0"
 julia = "1.6.7"
 
 [extras]
